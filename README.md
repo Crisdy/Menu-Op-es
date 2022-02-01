@@ -1,1 +1,1 @@
-Menu de opções feito em java..
+Menu de opções simples feito em Java.
